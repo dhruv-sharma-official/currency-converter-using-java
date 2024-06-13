@@ -36,7 +36,6 @@ public class main{
 			System.out.println("invalid input");
 		}
 	}
-	scanner.close();
 		
 	}
 
